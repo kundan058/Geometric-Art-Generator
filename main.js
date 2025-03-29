@@ -11,7 +11,7 @@ const shapes = [
     "circle",
 ];
 
-const colors = ["#176170", "#06490680", "#3d372e", "#960404"];
+const colors = ["#ff0000", "#00b80f", "#ff9900", "#1900ff"];
 const boxes = document.querySelectorAll(".container div");
 
 let generatePattern = () => {
